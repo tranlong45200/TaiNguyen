@@ -1,0 +1,31 @@
+{
+"ads": {
+"admob": {
+"app_banner": [
+"ca-app-pub-3940256099942544/6300978111",
+"ca-app-pub-3940256099942544/6300978111"
+],
+"app_inter": [
+"ca-app-pub-3940256099942544/1033173712"
+],
+"splash_banner": [
+"ca-app-pub-3940256099942544/6300978111"
+],
+"splash_inter": [
+"ca-app-pub-3940256099942544/1033173712"
+]
+},
+"ironsource": {
+"banner": "",
+"inter": ""
+}
+},
+"flurry_id": "",
+"iab": {
+"countries": [],
+"price": "100$ / week",
+"publish_key": "base64_publish_key",
+"subs": []
+},
+"id": ""
+}
